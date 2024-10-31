@@ -1,0 +1,11 @@
+input.custom_chk {
+    border-radius: 0;
+}
+
+.product_type_simple.add_to_cart_button {
+    display: none !important;
+}
+
+form.cart {
+    display: none !important;
+}
